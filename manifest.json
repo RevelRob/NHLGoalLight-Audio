@@ -6,15 +6,13 @@
     "sounds": {
       "game_start": {
         "path": "/common/sounds/game_start.mp3",
-        "description": "Arena air-raid siren on puck drop",
-        "size": 0,
-        "md5": ""
+        "size": 97108,
+        "md5": "68be4df4d221f8b52409ea31dbe4b1dc"
       },
       "period_end": {
         "path": "/common/sounds/period_end.mp3",
-        "description": "Period intermission buzzer",
-        "size": 0,
-        "md5": ""
+        "size": 56566,
+        "md5": "eec71a9a6813fc7703772f6357aeb1d5"
       },
       "win_fanfare": {
         "path": "/common/sounds/win_fanfare.mp3",
@@ -24,50 +22,309 @@
       },
       "test_horn": {
         "path": "/common/sounds/test_horn.mp3",
-        "description": "Short test sample",
-        "size": 0,
-        "md5": ""
+        "size": 65343,
+        "md5": "ed4ff339bd2bd48d79c6c65ec0d7dfeb"
       }
     }
   },
   "teams": {
-    "ANA": { "sounds": { "goal_horn": { "path": "/teams/ANA/sounds/goal_horn.mp3", "size": 0, "md5": "" } } },
-    "BOS": { "sounds": { "goal_horn": { "path": "/teams/BOS/sounds/goal_horn.mp3", "size": 0, "md5": "" } } },
-    "BUF": { "sounds": { "goal_horn": { "path": "/teams/BUF/sounds/goal_horn.mp3", "size": 0, "md5": "" } } },
-    "CGY": { "sounds": { "goal_horn": { "path": "/teams/CGY/sounds/goal_horn.mp3", "size": 0, "md5": "" } } },
-    "CAR": { "sounds": { "goal_horn": { "path": "/teams/CAR/sounds/goal_horn.mp3", "size": 0, "md5": "" } } },
-    "CHI": { "sounds": { "goal_horn": { "path": "/teams/CHI/sounds/goal_horn.mp3", "size": 0, "md5": "" } } },
-    "COL": { "sounds": { "goal_horn": { "path": "/teams/COL/sounds/goal_horn.mp3", "size": 0, "md5": "" } } },
-    "CBJ": { "sounds": { "goal_horn": { "path": "/teams/CBJ/sounds/goal_horn.mp3", "size": 0, "md5": "" } } },
-    "DAL": { "sounds": { "goal_horn": { "path": "/teams/DAL/sounds/goal_horn.mp3", "size": 0, "md5": "" } } },
-    "DET": { "sounds": { "goal_horn": { "path": "/teams/DET/sounds/goal_horn.mp3", "size": 0, "md5": "" } } },
-    "EDM": { "sounds": { "goal_horn": { "path": "/teams/EDM/sounds/goal_horn.mp3", "size": 0, "md5": "" } } },
-    "FLA": { "sounds": { "goal_horn": { "path": "/teams/FLA/sounds/goal_horn.mp3", "size": 0, "md5": "" } } },
-    "LAK": { "sounds": { "goal_horn": { "path": "/teams/LAK/sounds/goal_horn.mp3", "size": 0, "md5": "" } } },
-    "MIN": { "sounds": { "goal_horn": { "path": "/teams/MIN/sounds/goal_horn.mp3", "size": 0, "md5": "" } } },
-    "MTL": { "sounds": { "goal_horn": { "path": "/teams/MTL/sounds/goal_horn.mp3", "size": 0, "md5": "" } } },
-    "NSH": { "sounds": { "goal_horn": { "path": "/teams/NSH/sounds/goal_horn.mp3", "size": 0, "md5": "" } } },
-    "NJD": { "sounds": { "goal_horn": { "path": "/teams/NJD/sounds/goal_horn.mp3", "size": 0, "md5": "" } } },
-    "NYI": { "sounds": { "goal_horn": { "path": "/teams/NYI/sounds/goal_horn.mp3", "size": 0, "md5": "" } } },
-    "NYR": { "sounds": { "goal_horn": { "path": "/teams/NYR/sounds/goal_horn.mp3", "size": 0, "md5": "" } } },
-    "OTT": { "sounds": { "goal_horn": { "path": "/teams/OTT/sounds/goal_horn.mp3", "size": 0, "md5": "" } } },
-    "PHI": { "sounds": { "goal_horn": { "path": "/teams/PHI/sounds/goal_horn.mp3", "size": 0, "md5": "" } } },
-    "PIT": { "sounds": { "goal_horn": { "path": "/teams/PIT/sounds/goal_horn.mp3", "size": 0, "md5": "" } } },
-    "SJS": { "sounds": { "goal_horn": { "path": "/teams/SJS/sounds/goal_horn.mp3", "size": 0, "md5": "" } } },
-    "SEA": { "sounds": { "goal_horn": { "path": "/teams/SEA/sounds/goal_horn.mp3", "size": 0, "md5": "" } } },
-    "STL": { "sounds": { "goal_horn": { "path": "/teams/STL/sounds/goal_horn.mp3", "size": 0, "md5": "" } } },
-    "TBL": { "sounds": { "goal_horn": { "path": "/teams/TBL/sounds/goal_horn.mp3", "size": 0, "md5": "" } } },
-    "TOR": {
+    "ANA": {
       "sounds": {
-        "goal_horn": { "path": "/teams/TOR/sounds/goal_horn.mp3", "size": 0, "md5": "", "description": "Scotiabank Arena Kahlenberg horn + Pursuit of Happiness" },
-        "bowen_holy_mackinaw": { "path": "/teams/TOR/sounds/bowen_holy_mackinaw.mp3", "size": 0, "md5": "", "description": "Joe Bowen iconic 'HOLY MACKINAW!' call" },
-        "bowen_yes_sir": { "path": "/teams/TOR/sounds/bowen_yes_sir.mp3", "size": 0, "md5": "", "description": "Joe Bowen game winner 'YES SIR! YES SIR!' call" }
+        "goal_horn": {
+          "path": "/teams/ANA/sounds/goal_horn.mp3",
+          "size": 0,
+          "md5": ""
+        }
       }
     },
-    "UTA": { "sounds": { "goal_horn": { "path": "/teams/UTA/sounds/goal_horn.mp3", "size": 0, "md5": "" } } },
-    "VAN": { "sounds": { "goal_horn": { "path": "/teams/VAN/sounds/goal_horn.mp3", "size": 0, "md5": "" } } },
-    "VGK": { "sounds": { "goal_horn": { "path": "/teams/VGK/sounds/goal_horn.mp3", "size": 0, "md5": "" } } },
-    "WSH": { "sounds": { "goal_horn": { "path": "/teams/WSH/sounds/goal_horn.mp3", "size": 0, "md5": "" } } },
-    "WPG": { "sounds": { "goal_horn": { "path": "/teams/WPG/sounds/goal_horn.mp3", "size": 0, "md5": "" } } }
+    "BOS": {
+      "sounds": {
+        "goal_horn": {
+          "path": "/teams/BOS/sounds/goal_horn.mp3",
+          "size": 0,
+          "md5": ""
+        }
+      }
+    },
+    "BUF": {
+      "sounds": {
+        "goal_horn": {
+          "path": "/teams/BUF/sounds/goal_horn.mp3",
+          "size": 0,
+          "md5": ""
+        }
+      }
+    },
+    "CGY": {
+      "sounds": {
+        "goal_horn": {
+          "path": "/teams/CGY/sounds/goal_horn.mp3",
+          "size": 0,
+          "md5": ""
+        }
+      }
+    },
+    "CAR": {
+      "sounds": {
+        "goal_horn": {
+          "path": "/teams/CAR/sounds/goal_horn.mp3",
+          "size": 0,
+          "md5": ""
+        }
+      }
+    },
+    "CHI": {
+      "sounds": {
+        "goal_horn": {
+          "path": "/teams/CHI/sounds/goal_horn.mp3",
+          "size": 0,
+          "md5": ""
+        }
+      }
+    },
+    "COL": {
+      "sounds": {
+        "goal_horn": {
+          "path": "/teams/COL/sounds/goal_horn.mp3",
+          "size": 0,
+          "md5": ""
+        }
+      }
+    },
+    "CBJ": {
+      "sounds": {
+        "goal_horn": {
+          "path": "/teams/CBJ/sounds/goal_horn.mp3",
+          "size": 0,
+          "md5": ""
+        }
+      }
+    },
+    "DAL": {
+      "sounds": {
+        "goal_horn": {
+          "path": "/teams/DAL/sounds/goal_horn.mp3",
+          "size": 0,
+          "md5": ""
+        }
+      }
+    },
+    "DET": {
+      "sounds": {
+        "goal_horn": {
+          "path": "/teams/DET/sounds/goal_horn.mp3",
+          "size": 0,
+          "md5": ""
+        }
+      }
+    },
+    "EDM": {
+      "sounds": {
+        "goal_horn": {
+          "path": "/teams/EDM/sounds/goal_horn.mp3",
+          "size": 0,
+          "md5": ""
+        }
+      }
+    },
+    "FLA": {
+      "sounds": {
+        "goal_horn": {
+          "path": "/teams/FLA/sounds/goal_horn.mp3",
+          "size": 0,
+          "md5": ""
+        }
+      }
+    },
+    "LAK": {
+      "sounds": {
+        "goal_horn": {
+          "path": "/teams/LAK/sounds/goal_horn.mp3",
+          "size": 0,
+          "md5": ""
+        }
+      }
+    },
+    "MIN": {
+      "sounds": {
+        "goal_horn": {
+          "path": "/teams/MIN/sounds/goal_horn.mp3",
+          "size": 0,
+          "md5": ""
+        }
+      }
+    },
+    "MTL": {
+      "sounds": {
+        "goal_horn": {
+          "path": "/teams/MTL/sounds/goal_horn.mp3",
+          "size": 0,
+          "md5": ""
+        }
+      }
+    },
+    "NSH": {
+      "sounds": {
+        "goal_horn": {
+          "path": "/teams/NSH/sounds/goal_horn.mp3",
+          "size": 0,
+          "md5": ""
+        }
+      }
+    },
+    "NJD": {
+      "sounds": {
+        "goal_horn": {
+          "path": "/teams/NJD/sounds/goal_horn.mp3",
+          "size": 0,
+          "md5": ""
+        }
+      }
+    },
+    "NYI": {
+      "sounds": {
+        "goal_horn": {
+          "path": "/teams/NYI/sounds/goal_horn.mp3",
+          "size": 0,
+          "md5": ""
+        }
+      }
+    },
+    "NYR": {
+      "sounds": {
+        "goal_horn": {
+          "path": "/teams/NYR/sounds/goal_horn.mp3",
+          "size": 0,
+          "md5": ""
+        }
+      }
+    },
+    "OTT": {
+      "sounds": {
+        "goal_horn": {
+          "path": "/teams/OTT/sounds/goal_horn.mp3",
+          "size": 0,
+          "md5": ""
+        }
+      }
+    },
+    "PHI": {
+      "sounds": {
+        "goal_horn": {
+          "path": "/teams/PHI/sounds/goal_horn.mp3",
+          "size": 0,
+          "md5": ""
+        }
+      }
+    },
+    "PIT": {
+      "sounds": {
+        "goal_horn": {
+          "path": "/teams/PIT/sounds/goal_horn.mp3",
+          "size": 0,
+          "md5": ""
+        }
+      }
+    },
+    "SJS": {
+      "sounds": {
+        "goal_horn": {
+          "path": "/teams/SJS/sounds/goal_horn.mp3",
+          "size": 0,
+          "md5": ""
+        }
+      }
+    },
+    "SEA": {
+      "sounds": {
+        "goal_horn": {
+          "path": "/teams/SEA/sounds/goal_horn.mp3",
+          "size": 0,
+          "md5": ""
+        }
+      }
+    },
+    "STL": {
+      "sounds": {
+        "goal_horn": {
+          "path": "/teams/STL/sounds/goal_horn.mp3",
+          "size": 0,
+          "md5": ""
+        }
+      }
+    },
+    "TBL": {
+      "sounds": {
+        "goal_horn": {
+          "path": "/teams/TBL/sounds/goal_horn.mp3",
+          "size": 0,
+          "md5": ""
+        }
+      }
+    },
+    "TOR": {
+      "sounds": {
+        "goal_horn": {
+          "path": "/teams/TOR/sounds/goal_horn.mp3",
+          "size": 257186,
+          "md5": "60e9ee82207719d28548182854f484de"
+        },
+        "bowen_holy_mackinaw": {
+          "path": "/teams/TOR/sounds/bowen_holy_mackinaw.mp3",
+          "size": 161056,
+          "md5": "8de8fc597617b2a22af390f8609bf26c"
+        },
+        "bowen_yes_sir": {
+          "path": "/teams/TOR/sounds/bowen_yes_sir.mp3",
+          "size": 193239,
+          "md5": "aef75c5c116cba82f23875fad31522d2"
+        }
+      }
+    },
+    "UTA": {
+      "sounds": {
+        "goal_horn": {
+          "path": "/teams/UTA/sounds/goal_horn.mp3",
+          "size": 0,
+          "md5": ""
+        }
+      }
+    },
+    "VAN": {
+      "sounds": {
+        "goal_horn": {
+          "path": "/teams/VAN/sounds/goal_horn.mp3",
+          "size": 0,
+          "md5": ""
+        }
+      }
+    },
+    "VGK": {
+      "sounds": {
+        "goal_horn": {
+          "path": "/teams/VGK/sounds/goal_horn.mp3",
+          "size": 0,
+          "md5": ""
+        }
+      }
+    },
+    "WSH": {
+      "sounds": {
+        "goal_horn": {
+          "path": "/teams/WSH/sounds/goal_horn.mp3",
+          "size": 0,
+          "md5": ""
+        }
+      }
+    },
+    "WPG": {
+      "sounds": {
+        "goal_horn": {
+          "path": "/teams/WPG/sounds/goal_horn.mp3",
+          "size": 0,
+          "md5": ""
+        }
+      }
+    }
   }
 }
